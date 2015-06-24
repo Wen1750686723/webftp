@@ -1,0 +1,2 @@
+[ 2011-10-06 19:58:48 (CST) ]  WARNING:  rmdir(./../newdir/) [<a href='function.rmdir'>function.rmdir</a>]: Permission denied  G:\WebHost\admin\WebFTP_v1.2\WebFTP\inc\Base.class.php  第70行  
+[ 2011-10-06 19:58:56 (CST) ]  WARNING:  rmdir(./../newdir/) [<a href='function.rmdir'>function.rmdir</a>]: Permission denied  G:\WebHost\admin\WebFTP_v1.2\WebFTP\inc\Base.class.php  第70行  
